@@ -22,7 +22,7 @@ footer-links:
   facebook: abd.shomad
   flickr:
   github: abdshomad
-  instagram: 
+  instagram:
   linkedin: abdshomad
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -34,10 +34,10 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: @abdshomad
+disqus: abdshomad
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 
+google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
