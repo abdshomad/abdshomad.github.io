@@ -3,8 +3,6 @@ layout: post
 title: Bismillah
 ---
 
-Bismillaahirrahmaanirrahiim, 
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Bismillaahirrahmaanirrahiim,
 
 Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. 
